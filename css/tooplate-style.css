@@ -80,6 +80,11 @@ b, strong {
   font-weight: bold;
 }
 
+/* about image  */
+/* .img-fluid img{
+  min-width: 100%; 
+} */
+
 .custom-btn {
   background: #eee;
   color: #5b5b5b;
